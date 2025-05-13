@@ -8,12 +8,12 @@ A MERN stack web application for real-time collaborative document editing, featu
 **Intern Name**: JAYA NAYAK  
 **Intern ID**: CT4MWA81  
 **Domain**: MERN STACK WEB DEVELOPMENT  
-**Duration**: 15 Weeks  
+**Duration**: 4 MONTHS  
 **Mentor**: NEELA SANTHOSH  
 
 ---
 
-## 🚀 Project Description
+## 🚀 Project Description.
 
 A **MERN stack** web application that allows multiple users to collaborate on documents in real-time. The platform includes secure user authentication, live synchronization using WebSockets, document versioning, and a user-friendly rich text editor.
 
