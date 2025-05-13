@@ -8,7 +8,7 @@ INTERN ID: CT4MWZ98
 
 DOMAIN: MERN STACK WEB DEVELOPMENT
 
-DURATION: 4 MONTHS
+DURATION: 15 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
@@ -54,7 +54,11 @@ This type of platform is ideal for collaborative work environments, educational 
 
   ## Output
 
-![Image](https://github.com/user-attachments/assets/cc906140-0dd2-4103-83a0-c6c3a731964d)
-![Image](https://github.com/user-attachments/assets/02e7067a-c38f-4dbb-85ff-9811273ccd2f)
-![Image](https://github.com/user-attachments/assets/5a82c44a-6e67-47e7-95d0-680f95a1eea9)
+![image](https://github.com/user-attachments/assets/12dec448-21d1-41fe-9bcf-77da33af5d26)
+
+![image](https://github.com/user-attachments/assets/13eec157-5636-4644-a8cd-33ee3b3bff7b)
+
+![image](https://github.com/user-attachments/assets/285050fe-a039-4443-80ce-371cbf093211)
+
+
 
